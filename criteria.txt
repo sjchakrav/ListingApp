@@ -1,0 +1,22 @@
+* [ ] Sleek Interface [Bootstrap?] 
+* [ ] Admin Panel
+* [ ] Privileges 
+    * [ ] Admin[
+    * [ ] Moderator [can approve articles that’ll be added to the list]
+        * [ ] approve
+        * [ ] delete
+        * [ ] reorder
+    * [ ] Users
+* [ ] History log/IP log/
+* [ ] Google OAuth
+* [ ] Facebook OAuth
+* [ ] Submit a form
+    * [ ] Company name
+    * [ ] Link [and/or]
+    * [ ] Reason (100 characters if there’s no link provided) 
+    * [ ] form needs to be approved by a moderator >
+* Listing
+    * Has upvotes (shows who voted for which)
+* Sends an SMS and/or email out to the mobile group when a new listing has been added
+* Subscribe for daily text of all companies
+* Weekly email/weekly text of all companies
